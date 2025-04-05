@@ -1,7 +1,7 @@
 # Chat with your PDFs
 
 
-This app allows you to chat with your PDFs.
+This app allows you to chat with your PDFs effectively.
 
 <img src="https://s9.gifyu.com/images/SVJIG.gif" alt="app demo" width=600>
 
